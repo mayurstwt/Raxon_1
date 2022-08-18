@@ -1,0 +1,48 @@
+.logo img {
+  max-width: 70px;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.logo span {
+  color: orange;
+}
+
+.logo nav a {
+  cursor: pointer;
+}
+
+.Counter h2 {
+  color: orange;
+  font-family: Poppins;
+}
+
+.Counter p {
+  color: blue;
+  font-weight: 500;
+  font-family: Poppins;
+}
+
+.Upper_Text h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: orange;
+  font-family: Poppins;
+}
+
+.Upper_Text hr {
+  max-width: 100px;
+  margin: auto;
+  color: blue;
+  border-bottom: 3px solid;
+  border-radius: 50px;
+}
+
+.Upper_Text h4 {
+  padding: 10px;
+  color: blue;
+  font-weight: 400;
+  font-family: Poppins;
+}
